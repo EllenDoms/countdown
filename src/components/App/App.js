@@ -4,7 +4,7 @@ import './App.css';
 import Countdown from '../Countdown/Countdown';
 
 const date = {
-  title: 'Neal!',
+  title: 'Tel Aviv!',
   dateYear: 2018,
   dateMonth: 5,
   dateDay: 7
