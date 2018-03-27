@@ -1,0 +1,28 @@
+.day {
+  width: inherit;
+  float: left;
+  background: #252525; /* For browsers that do not support gradients */
+  background: linear-gradient(to bottom right, #626262, #252525);
+  border-radius: 10px;
+  width: 120px;
+  margin: 5px;
+}
+
+.line1 {
+  position: absolute;
+  height: 2px;
+  background-color: #262626;
+  width: inherit;
+  margin-top: 60px;
+}
+.line2 {
+  position: absolute;
+  height: 2px;
+  background-color: #505050;
+  width: inherit;
+  margin-top: 62px;
+}
+
+.digit {
+  padding: 18px 0px 20px 0px;
+}

@@ -1,4 +1,13 @@
+body{
+  width:100vw;
+  height:100vh;
+  font-family: 'Oswald', sans-serif;
+  background-image: url('https://i.imgur.com/OW5nxcZ.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
 img {
-  min-width: 100vw;
-  min-height: 100vh;
+  min-width:100vw;
+  min-height:100vh;
 }
